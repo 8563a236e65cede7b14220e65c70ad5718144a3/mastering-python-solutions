@@ -1,0 +1,2 @@
+-s, --spam  This is the spam option
+--eggs      This is the eggs option

@@ -330,3 +330,5 @@ cython_debug/
 
 #Tex files
 *.tex
+
+*.idea
